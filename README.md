@@ -19,15 +19,21 @@ Create a Solidity smart contract to automate financial processes and features, s
 * Create a joint savings account contract in Solidity
 * Compile and deploy the contract in the Remix VM (London)
 * Interact with the deployed Smart contract
+  
   * Define the authorized Ethereum addresses
 ![alt=“Define the authorized ETH addresses”](Execution_Results/Defined_Authorized_ETH_Addresses.png)
+  
   * Send 1 ether as wei
 ![alt=“Send 1 ether as wei”](Execution_Results/Send_1ETH_as_Wei.png)
+  
   * Send 10 ether as wei
 ![alt=“Send 10 ether as wei”](Execution_Results/Send_10ETH_as_Wei.png)
+  
   * Send 5 ether
 ![alt=“Send 10 ether as wei”](Execution_Results/Send_5ETH.png)
+ 
   * Withdraw 5 ether into `accountOne`
-![alt=“Send 10 ether as wei”](Withdraw_5ETH_into_1.png)
+![alt=“Send 10 ether as wei”](Execution_Results/Withdraw_5ETH_into_1.png)
+  
   * Withdraw 10 ether into `accountTwo`
-![alt=“Send 10 ether as wei”](Withdraw_10ETH_into_2.png)
+![alt=“Send 10 ether as wei”](Execution_Results/Withdraw_10ETH_into_2.png)
