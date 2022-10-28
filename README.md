@@ -18,7 +18,7 @@ Create a Solidity smart contract to automate financial processes and features, s
 
 * Create a joint savings account contract in Solidity
 * Compile and deploy the contract in the Remix VM (London) environment
-* Interact with the deployed Smart contract
+* Interact with the deployed smart contract
   
   * Define the authorized Ethereum addresses
 ![alt=“Define the authorized ETH addresses”](Execution_Results/Defined_Authorized_ETH_Addresses.png)
